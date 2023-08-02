@@ -11,19 +11,18 @@ Se realizarán tres exámenes y serán de obligatoria resolución.
 A grandes rasgos, los temás a evaluar en cada uno de ellos serán:
 
 **Examen 01** (34%)
-- adfadfa
-- asdfadsf
-- afdadfs
+- Unidad 1: Nociones básicas.
+- Unidad 2: Estructuras simples con elementos en tracción y compresión.
+- Unidad 3: Elementos sometidos a torsión.
 
 **Examen 02** (33%)
-- adfaf
-- asdfa
+- Unidad 4: Esfuerzos causados por flexión.
 
 **Examen 03** (33%)
-- Desplazamientos y deformaciones en un punto.
-- Relaciones entre esfuerzos y defor
+- Unidad 5: Deformaciones por flexión.
+- Unidad 6: Pandeo en columnas.
 
-Refierase al [contenido del curso](01--contenido-analisis-estructural-basico.md) para profundizar en los temas.
+Refierase al [contenido del curso](01--contenido-analisis-basico.md) para profundizar en los temas y capítulos del [libro guía](02--bibliografia-material.md).
 
 
 ## Ayudas durante el examen
@@ -53,12 +52,12 @@ Siempre que usted falte a un examen, debe haber algún documento que lo exonere 
 
 
 ## "Minuciosamente" en los exámenes
-En todos los exámenes se debe relacionar con palabras las fórmulas y motivar físicamente el porqué de un procedimiento o fórmula. Las explicaciones del planteamiento y desarrollo de un ejercicio no deben ser simples flechas siguiendo el orden de las simplificaciones. Hablando de simplificaciones, se espera que el estudiante realice un paso a paso de la solución de us ejercicio como se indicará en clase, no es admisible que presente la ecucaión para solucionar el ejercicio y a continuación, el resultado. 
+En todos los exámenes se debe relacionar con palabras las fórmulas y motivar físicamente el porqué de un procedimiento o fórmula. Las explicaciones del planteamiento y desarrollo de un ejercicio no deben ser simples flechas siguiendo el orden de las simplificaciones. Hablando de simplificaciones, se espera que el estudiante realice un paso a paso de la solución de su ejercicio como se indicará en clase. No es aceptable que presente la ecucaión para solucionar el ejercicio y, a continuación, el resultado. 
 
-Se espera que en el desarrollo de los ejercicios el estudiante realice un correcto planeamiento del problema y explique sus razones de operar como lo hace. 
+Se espera que en el desarrollo de los ejercicios el estudiante realice un correcto planeamiento del problema y explique sus razones de operar. 
 
 ## Tema de los exámenes.
-Serán sujeto de examen **todos** los temas tratados dentro del aula y también los seleccionados como de *estudio autónomo*. Toda mención hecha en clase o por los medios de comunicación e informativos (como el repositorio), material complementario, lecturas, códigos, etc, podrán ser evaluados.
+Serán sujeto de examen **todos** los temas tratados dentro del aula y también los seleccionados como de *estudio autónomo*. Toda mención hecha en clase o por los medios de comunicación e informativos (como el repositorio, classroom y correo electrónico), material complementario, lecturas, códigos, etc, podrán ser evaluados.
 
 Se especificará lo correspondiente a cada examen para que el estudiante sea consiente y organice su plan estudio.
 
