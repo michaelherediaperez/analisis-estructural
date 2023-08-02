@@ -22,7 +22,7 @@ En la [Universidad Nacional de Colombia sede Manizales](https://www.manizales.un
 
 0. [Prerrequisitos](informacion/00--prerrequisitos.md)
 1. [Contenido de la asignatura](informacion/01--contenido-analisis-basico.md)
-2. [Bibliografía y material recomendado](02--bibliografia-material.md)
+2. [Bibliografía y material recomendado](informacion/02--bibliografia-material.md)
 3. [Calificación y evaluación](informacion/03--calificacion.md)
 4. [Recomendaciones para estudiar](informacion/04--recomendaciones-para-estudiar.md)
 5. [Presentaciones de clase](diapos/readme.md)
