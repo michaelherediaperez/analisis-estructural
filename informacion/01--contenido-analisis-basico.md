@@ -17,7 +17,7 @@ Se espera que al final del curso, el estudiante esté en capacidad de:
 - Esfuerzo cortante y deformación unitaria cortante.
 - Esfuerzos y cargas permisibles. Diseño por cargas axiales y cortante.
 
-### 2. Estructuras simples con elementos en tracción y compresión
+### 2. Elementos simples cargados axialmente
 > Capítulo 2, excepto secciones 2.8, 2.9, 2.10. Ver [libro guía](02--bibliografia-material.md).
 - Cambios de longitud de elementos cargados axialmente.						
 - Cambios de longitud en condiciones no uniformes.						
