@@ -5,7 +5,7 @@ Durante las clases se hará uso de presentaciones con links de ayuda y puntos cl
 Estas están hechas en $\LaTeX$ con [Beamer](https://es.overleaf.com/learn/latex/Beamer): 
 
 
-0. Presentación del curso e introducción a la mecánica de materiales. 
+### Presentación del curso e introducción a la mecánica de materiales. 
     - [00_.pdf](00_.pdf): presentación del curso e introducción a la mecánica de materiales. Sección 1.1.
 
 1. Unidad 01. Nociones básicas. 
