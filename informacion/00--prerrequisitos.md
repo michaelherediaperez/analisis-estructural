@@ -2,7 +2,7 @@
 
 Para el entendimiento de la mecánica de materiales y análisis estructural básico es necesario tener una buena base de la Estática. También se aplicarán algunos conceptos de cálculo integral y ecuaciones diferenciales que serán abordados en su respectivo momento.
 
-Estática es el prerrequisito directo de la materia Análisis Estructural Básico, y los indirectos son Física Mecánica, Cálculo diferencial e Integral, y Física Mecánica. A continuación se presentan algunos recursos para repasar dichas materias.
+Estática es el prerrequisito directo de la materia Análisis Estructural Básico, y los indirectos son Física Mecánica, Cálculo diferencial e Integral. A continuación se presentan algunos recursos para repasar dichas materias.
 
 >RECOMENDACIÓN: Autoevalúece para saber a qué le debe prestar más atención al momento de repasar, ya tiene unos conocimientos previos y no está comenzando desde cero.
 
