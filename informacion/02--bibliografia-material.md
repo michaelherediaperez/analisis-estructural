@@ -19,11 +19,6 @@ Libros complementarios:
 
 ## Videos de ensayos de laboratorio comunes
 
-**Ensayo de tracción en barras**
-
-
-**Ensayo de compresión**
-
-**Ensayo de corte**
-
-
+- [Tensile Test](https://www.youtube.com/watch?v=D8U4G5kcpcM)
+- [Torsion of wood](https://www.youtube.com/watch?v=mTPYmrCuYnY)
+- [Beam Testing - Structural Engineer](https://www.youtube.com/watch?v=xYbhZ46edaQ)
