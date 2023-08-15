@@ -12,13 +12,13 @@ Estas están hechas en $\LaTeX$ con [Beamer](https://es.overleaf.com/learn/latex
 - [01a_.pdf](01a_.pdf): introducción a los esfuerzos y deformaciones. *Sección 1.3*.
 - [01b_.pdf](01b_.pdf): propiedades mecánicas y comportamiento de los materiales. *Secciones 1.4 a 1.6*.
 - [01c_.pdf](01c_.pdf): esfuerzos cortantes, de aplastamiento y admisibles. *Secciones 1.7 a 1.9*.
-- [01z_.pdf](01z_.pdf): ejercicios de la unidad. Ejemplos del *capítulo 1*.
+- [01z_.pdf](01z_.pdf): ejercicios de la unidad. 
     
 ### Unidad 02. Estructuras simples con elementos en tracción y compresión.
 - [02a_.pdf](02a_.pdf): Cambios de longitud y estructuras estáticamente indeterminadas. *Secciones 2.1 a 2.4*.
 - [02b_.pdf](02b_.pdf): Otras consideraciones de esfuerzo y energía de deformación. *Secciones 2.5 a 2.7*. 
 - [02c_.pdf](02c_.pdf): comportamiento no lineal y analisis elastoplastico. *Secciones 2.11 y 2.12*. 
-- [02z_.pdf](02z_.pdf): ejercicios de la unidad. Ejemplos del *capítulo 2*.
+- [02z_.pdf](02z_.pdf): ejercicios de la unidad. 
 
 ### Unidad 03. Elementos sometidos a torsión
 - [03--torsion-pdf](03--torsion-pdf)
