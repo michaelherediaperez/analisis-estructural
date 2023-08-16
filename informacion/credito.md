@@ -7,10 +7,10 @@
 
 ## ¿Y cómo aplica esto a la materia?
 
-La materia es de 3 créditos.
+La materia es de 4 créditos.
 
-|                      | Horas/semana | Horas/mes          |
+|                      | Horas/semana | Horas/semestre     |
 | ---                  | :---:        | :---:              |
 | Actividad presencial | 4            | 64 = 4*16          |
-| Actividad autónoma   | **5**        | 80 = 4*16          |
-| Total                | 9            | 64+80 = 144 = 48*3 | 
+| Actividad autónoma   | **8**        | 128 = 8*16         |
+| Total                | 12           | 64+128 = 192 = 48*4| 
