@@ -14,7 +14,7 @@ En la [Universidad Nacional de Colombia sede Manizales](https://www.manizales.un
 | Profesor                          | Michael Heredia Pérez, [mherediap@unal.edu.co](mherediap@unal.edu.co)       |
 | ---                               | ---                                                                         |
 | Semestre en curso                 | 2023b, 16 semanas                                                           |
-| [Créditos](informacion/credito.md)| 4                                                                           |
+| [Créditos](informacion/credito.md)| 3                                                                           |
 | Horario                           | martes (4:00 p.m. - 6:00 p.m.) y jueves (4:00 p.m. - 6:00 p.m.)             |
 
 
