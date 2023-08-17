@@ -21,7 +21,10 @@ Estas están hechas en $\LaTeX$ con [Beamer](https://es.overleaf.com/learn/latex
 - [02z_.pdf](02z_.pdf): ejercicios de la unidad. 
 
 ### Unidad 03. Elementos sometidos a torsión
-- [03--torsion-pdf](03--torsion-pdf)
+- [03a_.pdf](03a_.pdf): Torsion en barras prismáticas circulares. *Secciones 3.1 a 3.4*.
+- [03b_.pdf](03b_.pdf): Torsión en secciones prismáticas no circulares. *Secciones 3.8 a 3.11*.  
+- [03z_.pdf](03z_.pdf): ejercicios de la unidad. 
+
 
 ### Unidad 04. Esfuerzos causados por flexión
 - [05--esfuerzos-en-vigas-basico.pdf](05--esfuerzos-en-vigas-basico.pdf)
