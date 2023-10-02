@@ -27,12 +27,13 @@ Estas están hechas en $\LaTeX$ con [Beamer](https://es.overleaf.com/learn/latex
 
 
 ### Unidad 04. Esfuerzos causados por flexión
-- [05--esfuerzos-en-vigas-basico.pdf](05--esfuerzos-en-vigas-basico.pdf)
-- [06--esfuerzos-en-vigas-avanzado.pdf](06--esfuerzos-en-vigas-avanzado.pdf)
+- [05a_.pdf](05a_.pdf): Repaso, curvatura y esfuerzos normales en vigas.
+- [05b_.pdf](05b_.pdf): Diseño por flexión y esfuerzos cortantes en vigas.
+- [06b_.pdf](06b_.pdf): Centro de cortante y plasticidad debida a flexión.
 
 ### Unidad 05. Deformaciones por flexión
 - [09--deflexiones-en-vigas.pdf](9--deflexiones-en-vigas.pdf)
 - [10--vigas-estaticamente-indeterminadas.pdf](10--vigas-estaticamente-indeterminadas.pdf)
 
 ### Unidad 06. Pandeo en columnas.
-- [11--columnas.pdf](11--columnas.pdf)
+- [11a_.pdf](11a_.pdf): Columnas.
