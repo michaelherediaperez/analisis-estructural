@@ -32,6 +32,7 @@ Estas están hechas en $\LaTeX$ con [Beamer](https://es.overleaf.com/learn/latex
 - [06b_.pdf](06b_.pdf): Centro de cortante y plasticidad debida a flexión.
 
 ### Unidad 05. Deformaciones por flexión
+- [00a_.pdf](00a_.pdf): superposición y funciones de singularidad.
 - [09--deflexiones-en-vigas.pdf](9--deflexiones-en-vigas.pdf)
 - [10--vigas-estaticamente-indeterminadas.pdf](10--vigas-estaticamente-indeterminadas.pdf)
 
