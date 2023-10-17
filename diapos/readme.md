@@ -29,7 +29,7 @@ Estas están hechas en $\LaTeX$ con [Beamer](https://es.overleaf.com/learn/latex
 ### Unidad 04. Esfuerzos causados por flexión
 - [05a_.pdf](05a_.pdf): Repaso, curvatura y esfuerzos normales en vigas.
 - [05b_.pdf](05b_.pdf): Diseño por flexión y esfuerzos cortantes en vigas.
-- [06b_.pdf](06b_.pdf): Centro de cortante y plasticidad debida a flexión.
+- [06b_.pdf](06b_.pdf): Centro de cortante y flexión elastoplástica.
 
 ### Unidad 05. Deformaciones por flexión
 - [00a_.pdf](00a_.pdf): superposición y funciones de singularidad.
