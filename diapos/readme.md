@@ -32,9 +32,7 @@ Estas están hechas en $\LaTeX$ con [Beamer](https://es.overleaf.com/learn/latex
 - [06b_.pdf](06b_.pdf): Centro de cortante y flexión elastoplástica.
 
 ### Unidad 05. Deformaciones por flexión
-- [00a_.pdf](00a_.pdf): superposición y funciones de singularidad.
-- [09--deflexiones-en-vigas.pdf](9--deflexiones-en-vigas.pdf)
-- [10--vigas-estaticamente-indeterminadas.pdf](10--vigas-estaticamente-indeterminadas.pdf)
+- [09a_.pdf](09a_.pdf): deformaciones causadas por flexión (deformada de la viga).
 
 ### Unidad 06. Pandeo en columnas.
 - [11a_.pdf](11a_.pdf): Columnas.
