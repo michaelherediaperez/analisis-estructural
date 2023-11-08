@@ -29,10 +29,11 @@ Estas están hechas en $\LaTeX$ con [Beamer](https://es.overleaf.com/learn/latex
 ### Unidad 04. Esfuerzos causados por flexión
 - [05a_.pdf](05a_.pdf): Repaso, curvatura y esfuerzos normales en vigas.
 - [05b_.pdf](05b_.pdf): Diseño por flexión y esfuerzos cortantes en vigas.
-- [06b_.pdf](06b_.pdf): Centro de cortante y flexión elastoplástica.
+- [06b_.pdf](06b_.pdf): Flexión elastoplástica.
 
 ### Unidad 05. Deformaciones por flexión
-- [09a_.pdf](09a_.pdf): deformaciones causadas por flexión (deformada de la viga).
+- [09a_.pdf](09a_.pdf): Deformaciones causadas por flexión (deflexiones).
+- [10a_.pdf](10a_.pdf): Deflexiones en vigas estáticamente indeterminadas.
 
 ### Unidad 06. Pandeo en columnas.
-- [11a_.pdf](11a_.pdf): Columnas.
+- [11a_.pdf](11a_.pdf): Pandeo en columnas.
